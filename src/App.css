@@ -211,6 +211,20 @@ textarea {
     padding: 20px;
     border-radius: 15px;
   }
+  .loginPage p {
+    font-size: 20px;
+    color: #757575;
+  
+  }
+  
+a{
+  color: white;
+  text-decoration: none;
+  margin: 10px;
+  font-size: 20px;
+  padding-right: 50px;
+}
+  
   
 
   
