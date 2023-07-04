@@ -23,7 +23,7 @@ function CreatePost({ isAuth }) {
     if (!isAuth) {
       navigate("/login");
     }
-  }, [navigate]);
+  });
 
   return (
     <div className="createPostPage">
